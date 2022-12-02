@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "https://www.elmundoeats.com/wp-content/uploads/2021/02/FP-Quick-30-minutes-chicken-ramen.jpg",
+      "image": "",
+      "price": "0.18",
+      "id": 8
+    },
+    {
+      "name": "frfr",
+      "image": "https://www.elmundoeats.com/wp-content/uploads/2021/02/FP-Quick-30-minutes-chicken-ramen.jpg",
+      "price": "0.18",
+      "id": 9
+    },
+    {
+      "name": "frfr",
+      "image": "https://www.elmundoeats.com/wp-content/uploads/2021/02/FP-Quick-30-minutes-chicken-ramen.jpg",
+      "price": "0.18",
+      "id": 10
+    },
+    {
+      "name": "frfr",
+      "image": "https://www.elmundoeats.com/wp-content/uploads/2021/02/FP-Quick-30-minutes-chicken-ramen.jpg",
+      "price": "0.18",
+      "id": 11
     }
   ]
 }
